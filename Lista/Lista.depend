@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1662400496 source:/home/alunos/Downloads/Lista/Lista.cpp
+1662400337 source:/var/www/Lista/main.cpp
 	"Lista.h"
 
-1662400260 /home/alunos/Downloads/Lista/Lista.h
+1662399787 /var/www/Lista/Lista.h
 	<iostream>
 
-1662400527 source:/home/alunos/Downloads/Lista/main.cpp
+1662400315 source:/var/www/Lista/Lista.cpp
 	"Lista.h"
 
